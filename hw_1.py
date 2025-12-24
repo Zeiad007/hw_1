@@ -256,9 +256,3 @@ if __name__ == "__main__":
         print("✗ Part 3 (Housing) failed")
     
     print("\nALL TASKS COMPLETED!")
-
-
-
-
-
-    #print("\nALL TASKS COMPLETED!")#
